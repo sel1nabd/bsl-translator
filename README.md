@@ -1,6 +1,7 @@
 # BSL (British Sign Language) Translator
 
 A real-time Python-based British Sign Language translator using computer vision and hand tracking.
+Note that this is very caca claude code - I'm just practicing.
 
 ## Installation
 
